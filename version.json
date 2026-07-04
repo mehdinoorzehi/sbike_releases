@@ -1,7 +1,7 @@
 {
   "version": "1.43.0",
   "build": 43,
-  "force": true,
+  "force": false,
   "title": "نسخه 1.43.0 منتشر شد",
   "message": "رفع باگ‌ها و اضافه شدن امکانات جدید",
   "download": "https://github.com/mehdinoorzehi/sbike_releases/releases/download/1.43.0/shahryar1.43.0.apk"
