@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
-  "build": 2,
+  "version": "1.43.0",
+  "build": 43,
   "force": true,
-  "title": "نسخه جدید منتشر شد",
+  "title": "نسخه 1.43.0 منتشر شد",
   "message": "رفع باگ‌ها و اضافه شدن امکانات جدید",
-  "download": "https://github.com/mehdinoorzehi/smart_alarm/releases/download/v1.1.0/armmax_v1.1.0.apk"
+  "download": "https://github.com/mehdinoorzehi/sbike_releases/releases/download/1.43.0/shahryar1.43.0.apk"
 }
